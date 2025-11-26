@@ -1,6 +1,15 @@
 [
   {
     "date": "2025-11-26",
+    "theme": "Carbon Accounting",
+    "tags": "Logging",
+    "file": "https://esa-eodash.github.io/eodashboard-narratives/Forest_Coetus.md",
+    "title": "Forest Monitoring and Adaptation to Climate Change",
+    "subtitle": "By COETUS",
+    "image": "assets/previews/png_preview.png"
+  },
+  {
+    "date": "2025-11-26",
     "theme": "EO Adaptation Services",
     "tags": "food, soil moisture, flooding",
     "file": "https://esa-eodash.github.io/eodashboard-narratives/Geomatrix_food.md",
